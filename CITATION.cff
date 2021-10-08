@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "EXAMPLE ONLY"
+authors:
+  - family-names: Fake
+    given-names: User
+    orcid: https://orcid.org/FAKE
+title: "My EXAMPLE Software"
+version: 2.0.4
+doi: 10.5281/zenodo.FAKE
+date-released: 2021-08-11
